@@ -1,0 +1,22 @@
+{
+  "name": "sequelize_test_harness",
+  "version": "0.1.0",
+  "description": "Basic test harness for running SQL statements with Sequelize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@artisgarbage",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "dotenv": "^4.0.0",
+    "execsql": "0.0.3",
+    "knex": "^0.13.0",
+    "lodash": "^4.17.4",
+    "mssql": "^3.3.0",
+    "sequelize": "^4.4.2",
+    "tedious": "^2.0.0",
+    "winston": "^2.3.1"
+  }
+}
