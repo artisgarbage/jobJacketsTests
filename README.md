@@ -1,6 +1,6 @@
 # Sequelize Test Harness
 
-Basic test harness for running SQL statements with Sequelize
+Basic and ugly test harness for running SQL statements with Sequelize.  Has commented approaches for KNEX, native MSSQL and ExecSQL
 
 ## Setup
 
